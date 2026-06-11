@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Database, Shield, Brain, Activity, CheckCircle, AlertTriangle, Key, Cpu, Users, ArrowRight } from 'lucide-react';
+import React, { useState } from 'react';
+import { Database, Shield, CheckCircle, AlertTriangle, Key, Cpu, Users, ArrowRight } from 'lucide-react';
 
 interface EventLog {
   id: string;
