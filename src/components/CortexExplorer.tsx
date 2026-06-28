@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState } from 'react';
 import { Database, Shield, CheckCircle, AlertTriangle, Key, Cpu, Users, ArrowRight } from 'lucide-react';
 

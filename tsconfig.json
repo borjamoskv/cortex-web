@@ -5,7 +5,10 @@
     "**/*"
   ],
   "exclude": [
-    "dist"
+    "dist",
+    "node_modules",
+    ".vercel",
+    ".git"
   ],
   "compilerOptions": {
     "jsx": "react-jsx",
